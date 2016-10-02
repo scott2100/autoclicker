@@ -1,5 +1,6 @@
 # autoclicker
-###This is an autoclicker mod for the game Cookie Clicker
+###This is an autoclicker mod for the game Cookie Clicker -
+###orteil.dashnet.org/cookieclicker/
 
 ###Run the following js in the browser console while playing cookie clicker to load the mod:
 
